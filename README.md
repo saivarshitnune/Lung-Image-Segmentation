@@ -73,4 +73,4 @@ Our data has below distribution of images,masks divided into train , test and va
 
 
 # Conclusion
-The VGG16-UNet model achieved a Dice score of 0.71 on the test set, indicating a good level of accuracy in segmenting lung regions from the background. This result demonstrates the model's potential for assisting in medical image analysis tasks.
+This project showcases the potential of deep learning architectures, specifically ResNet50 and VGG16, as encoder layers within a U-Net framework to tackle the problem of lung region segmentation in chest X-ray images. The primary goal was to accurately delineate the lung areas from the surrounding anatomical structures, leveraging the binary masks provided in the dataset and can be improved by training with more diversified and more number of samples for robust lung image segmentation.
