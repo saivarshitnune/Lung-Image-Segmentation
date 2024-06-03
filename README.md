@@ -29,8 +29,10 @@ Our data has below distribution of images,masks divided into train , test and va
     Sample lung images with respective masks.
 
 
-     ![Img_Mask](https://github.com/saivarshitnune/Lung-Image-Segmentation-Using-VGG16-UNet-Architecture/assets/121888709/b1965495-3c44-4b16-b5c8-c7bf0c44a3d5)
+    ![Img_Mask](https://github.com/saivarshitnune/Lung-Image-Segmentation/assets/121888709/80ec7a33-b567-43e1-9021-e6b062c17695)
 
+     
+ 
 
 
 # Model Architecture
